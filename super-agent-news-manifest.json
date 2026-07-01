@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[techcouver.com](https://techcouver.com/2026/06/12/vancouver-ai-startup-orchid-brings-the-world-cup-to-your-messages/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)"
+  ],
+  "design_plan": "rng=42; hero_math=2.3_lines@1120px; aida=pass; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=black/white_pass",
+  "generated_at": "2026-07-01T04:11:10.336525+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, practical comparison for people evaluating Super against Orchids. Orchids explores messaging\u2011first AI assistants and experimental automation. Super is built for durable computer\u2011use workflows \u2014 agents that actually operate a computer and reuse a computer-use cache so repeated work gets cheaper and more reliable over time."
+}
